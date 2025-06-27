@@ -16,7 +16,7 @@
     </div>
 
 🌐 I'm a backend developer in training with a solid foundation in programming, data structures, relational databases, and API design. Although I don't have formal work experience, I have worked on personal and academic projects where I have applied best development practices, version control with Git, and technologies such as Node.js, Express, MongoDB, and .NET Core.
-
+<a target="_blank" href="https://www.linkedin.com/in/jerudev/">CV</a>
 <br><br>
 
 
