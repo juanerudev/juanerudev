@@ -8,6 +8,7 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
+
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <div align=center>
@@ -18,7 +19,8 @@
 
 <br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Technical skills</b>
 <br>
 <table>
     <tr>
@@ -49,6 +51,7 @@
 
 
 
+
 <h2>📚 | Education</h2>
 <p>As a technologist in software analysis and development committed to continuous learning, my academic journey is both active and ambitious. I am currently pursuing and close to completing my undergraduate degree in Computer Engineering, with the goal of obtaining a specialization in web development after finishing my studies.</p><br>
 
@@ -56,7 +59,6 @@
   <table style="margin-left: auto; margin-right: auto;">
     <tr>
       <td align="center">
-        <img src="https://thumbs4.imagebam.com/7d/3e/66/MESRJTA_t.png" height="40" alt="1.png"/>
         <img src="./senalogo.png" width="90" alt="Sena"/><br>
         <strong>SENA</strong><br>Software analysis and development<br>
         <a href="./diploma.pdf" target="_blank"><img src="https://cdn-icons-png.freepik.com/256/17505/17505293.png?semt=ais_hybrid" height="40" alt="degree"/></a>
@@ -70,6 +72,15 @@
   </table>
 </div>
 
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Soft skills</b>
+<br>
+- 🗣️ Effective communication.
+- 🤼‍♀️ Teamwork.
+- 🧠 Logical and analytical thinking.
+- ⏰ Time and priority management.
+- 💡 Problem-solving.
+- 👨‍💻 Autonomy and proactiveness
 
 <div id="user-content-toc">
   <ul align="center">
