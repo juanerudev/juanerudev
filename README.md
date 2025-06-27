@@ -26,14 +26,14 @@
     <tr>
       <td align="center">
         <img src="https://thumbs4.imagebam.com/7d/3e/66/MESRJTA_t.png" height="40" alt="1.png"/>
-        <img src="[https://thumbs4.imagebam.com/6c/bc/6e/MESRGXI_t.png](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Sena_Colombia_logo.svg/1200px-Sena_Colombia_logo.svg.png)" width="90" alt="UPS.png"/><br>
+        <img src="./senalogo.png" width="90" alt="Sena"/><br>
         <strong>SENA</strong><br>Software analysis and development<br>
-        <img src="[https://progress-bar.dev/100/](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Sena_Colombia_logo.svg/1045px-Sena_Colombia_logo.svg.png)" width="105" alt="progress-bar"/>
+        <a href="./diploma.pdf" target="_blank">Diploma</a>
       </td>
       <td align="center">
-       <img src="https://radcolombia.org/web/sites/default/files/archivos/instituciones/universidad-caldas/logo-uc.png" width="90" alt="U caldas"/><br>
+       <img src="./ucaldas.png" width="90" alt="U caldas"/><br>
         <strong>Universidad of Caldas</strong><br>Computer Engineering<br>
-        <img src="https://progress-bar.dev/30/" width="100" alt="progress-bar"/>
+        <a href="./certificadoUcaldas.pdf" target="_blank">Certificado</a>
       </td>
     </tr>
   </table>
