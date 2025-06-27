@@ -64,7 +64,7 @@
       <td align="center">
        <img src="./ucaldas.png" width="90" alt="U caldas"/><br>
         <strong>Universidad of Caldas</strong><br>Computer Engineering<br>
-        <a href="./certificadoUcaldas.pdf" target="_blank">Certificate</a>
+        <a href="./certificadoUcaldas.pdf" target="_blank"><img src="https://cdn-icons-png.freepik.com/256/17505/17505293.png?semt=ais_hybrid" height="40" alt="certificate"/></a>
       </td>
     </tr>
   </table>
