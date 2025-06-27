@@ -45,7 +45,9 @@
 </div>
 
   <p align="center">LinkedIn: <a href="https://www.linkedin.com/in/jerudev/" target="_blank">https://www.linkedin.com/in/jerudev/</a></p>
-<p align="center">Gmail: juanerudev@gmail.com</p>
+<a href="mailto:juanerudev@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:  t=mail" />
+</a>
 
 
 <div align="center">
