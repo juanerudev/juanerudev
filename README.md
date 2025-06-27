@@ -35,7 +35,7 @@
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,firebase,graphql,mongodb,redis,elasticsearch"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
@@ -77,10 +77,9 @@
   </ul>
 </div>
 
-  <p align="center">LinkedIn: <a href="https://www.linkedin.com/in/jerudev/" target="_blank">https://www.linkedin.com/in/jerudev/</a></p>
-<a href="mailto:juanerudev@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  t=mail" />
-</a>
+
+<a target="_blank" href="https://www.linkedin.com/in/jerudev/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="mailto:juanerudev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 
 
 <div align="center">
