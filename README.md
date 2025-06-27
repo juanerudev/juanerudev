@@ -31,8 +31,7 @@
         <img src="[https://progress-bar.dev/100/](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Sena_Colombia_logo.svg/1045px-Sena_Colombia_logo.svg.png)" width="105" alt="progress-bar"/>
       </td>
       <td align="center">
-       <img src="https://thumbs4.imagebam.com/b4/6b/77/MESRJT1_t.png" height="40" alt="0.png"/>
-       <img src="https://thumbs4.imagebam.com/d6/0d/e4/MESRJUR_t.png" width="90" alt="TEC.png"/><br>
+       <img src="https://radcolombia.org/web/sites/default/files/archivos/instituciones/universidad-caldas/logo-uc.png" width="90" alt="U caldas"/><br>
         <strong>Universidad of Caldas</strong><br>Computer Engineering<br>
         <img src="https://progress-bar.dev/30/" width="100" alt="progress-bar"/>
       </td>
