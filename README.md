@@ -19,7 +19,7 @@
 🌐 I'm a backend developer in training with a solid foundation in programming, data structures, relational databases, and API design. Although I don't have formal work experience, I have worked on personal and academic projects where I have applied best development practices, version control with Git, and technologies such as Node.js, Express, MongoDB, and .NET Core.
 
 <h2>📚 | Education</h2>
-<p>As an engineer committed to lifelong learning, my academic path is both active and aspirational. Having achieved my bachelor's degree, I'm now advancing through my master's program, with the ultimate goal of attaining a doctoral degree.</p><br>
+<p>As a technologist in software analysis and development committed to continuous learning, my academic journey is both active and ambitious. I am currently pursuing and close to completing my undergraduate degree in Computer Engineering, with the goal of obtaining a specialization in web development after finishing my studies.</p><br>
 
 <div align="center">
   <table style="margin-left: auto; margin-right: auto;">
@@ -59,7 +59,7 @@
 
 <!--icons and links-->
 <p align="center">
-<a href="[https://www.linkedin.com/in/1010nishant/](https://www.linkedin.com/in/jerudev/)" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/jerudev/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
 <a href="[https://twitter.com/1010nishant](https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg)" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
 <a href="https://www.instagram.com/nishant.jangir.1010/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
 </p>
