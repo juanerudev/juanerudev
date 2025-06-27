@@ -28,7 +28,7 @@
         <img src="https://thumbs4.imagebam.com/7d/3e/66/MESRJTA_t.png" height="40" alt="1.png"/>
         <img src="[https://thumbs4.imagebam.com/6c/bc/6e/MESRGXI_t.png](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Sena_Colombia_logo.svg/1200px-Sena_Colombia_logo.svg.png)" width="90" alt="UPS.png"/><br>
         <strong>SENA</strong><br>Software analysis and development<br>
-        <img src="https://progress-bar.dev/100/" width="105" alt="progress-bar"/>
+        <img src="[https://progress-bar.dev/100/](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Sena_Colombia_logo.svg/1045px-Sena_Colombia_logo.svg.png)" width="105" alt="progress-bar"/>
       </td>
       <td align="center">
        <img src="https://thumbs4.imagebam.com/b4/6b/77/MESRJT1_t.png" height="40" alt="0.png"/>
@@ -50,9 +50,8 @@
 
 <!--icons and links-->
 <p align="center">
-<a href="https://www.linkedin.com/in/jerudev/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="[https://twitter.com/1010nishant](https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg)" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
-<a href="https://www.instagram.com/nishant.jangir.1010/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/jerudev/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
 </p>
 
 
