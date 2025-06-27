@@ -49,8 +49,8 @@
 
 <!--icons and links-->
 <p align="center">
-  <a href="https://www.linkedin.com/in/jerudev/" target="_blank">LinkedIn</a>
-<a href="juanerudev@gmail.com" target="_blank">juanerudev@gmail.com</a>
+  <p>LinkedIn: <a href="https://www.linkedin.com/in/jerudev/" target="_blank">https://www.linkedin.com/in/jerudev/</a></p>
+<p>Gmail: juanerudev@gmail.com</p>
 </p>
 
 
