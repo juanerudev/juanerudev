@@ -59,7 +59,7 @@
         <img src="https://thumbs4.imagebam.com/7d/3e/66/MESRJTA_t.png" height="40" alt="1.png"/>
         <img src="./senalogo.png" width="90" alt="Sena"/><br>
         <strong>SENA</strong><br>Software analysis and development<br>
-        <a href="./diploma.pdf" target="_blank">Degree</a>
+        <a href="./diploma.pdf" target="_blank"><img src="https://cdn-icons-png.freepik.com/256/17505/17505293.png?semt=ais_hybrid" height="40" alt="degree"/></a>
       </td>
       <td align="center">
        <img src="./ucaldas.png" width="90" alt="U caldas"/><br>
@@ -78,8 +78,10 @@
 </div>
 
 
-<a target="_blank" href="https://www.linkedin.com/in/jerudev/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<p align="center">
+  <a target="_blank" href="https://www.linkedin.com/in/jerudev/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="mailto:juanerudev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+</p>
 
 
 <div align="center">
