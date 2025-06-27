@@ -17,7 +17,7 @@
 
 🌐 I'm a backend developer in training with a solid foundation in programming, data structures, relational databases, and API design. Although I don't have formal work experience, I have worked on personal and academic projects where I have applied best development practices, version control with Git, and technologies such as Node.js, Express, MongoDB, and .NET Core.
 
-<br>
+<br><br>
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Technical skills</b>
@@ -50,7 +50,7 @@
 </table>
 
 
-
+<br>
 
 <h2>📚 | Education</h2>
 <p>As a technologist in software analysis and development committed to continuous learning, my academic journey is both active and ambitious. I am currently pursuing and close to completing my undergraduate degree in Computer Engineering, with the goal of obtaining a specialization in web development after finishing my studies.</p><br>
@@ -72,17 +72,18 @@
   </table>
 </div>
 
+<br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Soft skills</b>
 <br>
-<p>
- 🗣️ Effective communication.
- 🤼‍♀️ Teamwork.
- 🧠 Logical and analytical thinking.
- ⏰ Time and priority management.
- 💡 Problem-solving.
- 👨‍💻 Autonomy and proactiveness
-</p>
+<p>🗣️ Effective communication.</p>
+<p>🤼‍♀️ Teamwork.</p>
+<p>🧠 Logical and analytical thinking.</p>
+<p>⏰ Time and priority management.</p>
+<p>💡 Problem-solving.</p>
+<p>👨‍💻 Autonomy and proactiveness</p>
+
+<br>
 
 <div id="user-content-toc">
   <ul align="center">
