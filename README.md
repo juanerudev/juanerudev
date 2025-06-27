@@ -1,7 +1,5 @@
-<!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi 👋, I'm Juan</h1></summary>
@@ -39,28 +37,21 @@
   </table>
 </div>
 
-<!-- Connect with me -->
-<!--h2 without bottom border-->
+
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
   </ul>
 </div>
 
-<!--icons and links-->
-<p align="center">
-  <p>LinkedIn: <a href="https://www.linkedin.com/in/jerudev/" target="_blank">https://www.linkedin.com/in/jerudev/</a></p>
-<p>Gmail: juanerudev@gmail.com</p>
-</p>
+  <p align="center">LinkedIn: <a href="https://www.linkedin.com/in/jerudev/" target="_blank">https://www.linkedin.com/in/jerudev/</a></p>
+<p align="center">Gmail: juanerudev@gmail.com</p>
 
 
-<!--profile visit count-->
 <div align="center">
   
 [![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
   
 </div>
 
-
-<!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
